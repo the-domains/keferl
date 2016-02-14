@@ -1,0 +1,28 @@
+name: keferl
+favicon: null
+layout_spectrum: 0.8829834086354822
+typography_spectrum: 0.9301594439893961
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.7905913074500859
+  lightness: 0.6807983606122434
+  saturation: 0.22544290428049862
+  rhythmicContrast: 0.5334245744161308
+purpose: []
