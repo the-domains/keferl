@@ -6,27 +6,26 @@ inLanguage: null
 starred: false
 keywords: []
 description: All you need to know about Nakameguro
-datePublished: '2016-02-16T08:28:02.791Z'
-dateModified: '2016-02-16T08:27:54.315Z'
+datePublished: '2016-02-16T08:33:38.955Z'
+dateModified: '2016-02-16T08:33:27.004Z'
 title: Nakameguro Guide
 author: []
+sourcePath: _posts/2016-02-16-nakameguro-guide.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-16-nakameguro-guide.md
-published: true
 url: nakameguro-guide/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8030a82a-d48d-4349-ba8a-f0a77fb7239e.jpg)
-
 Naka-meguro: Area overview
 
 ****
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8030a82a-d48d-4349-ba8a-f0a77fb7239e.jpg)
 
 The Naka-meguro area, in Meguro, Tokyo is situated around Naka-meguro station which opened in 1927\. "Meguro" means "black eyes", and is derived from Meguro Fudō, one of five Fudō-myōō statues that were placed on the border of Edo in the seventeenth century. The statues were thought to provide protection to the area and each statue had different coloured eyes. Naka-meguro today is a fashionable area of Tokyo, offering quaint boutiques, trendy cafes and plenty of quiet spots to relax and absorb the pleasant atmosphere of the neighbourhood. However, the area differs greatly from the atmosphere of slick Omotesando, where iconic designer labels rule and international flagships are a dime a dozen. Naka-meguro has a much quieter elegance, and locals are likely to prefer books on DIY and hidden boutiques featuring emerging Japanese and Scandinavian labels. It's hipper and has a touch more soul than many of the other fashion hubs of Tokyo, making it an eclectic attraction for many travellers. If you're in the mood to explore a quieter side to Tokyo, Nakameguro is a good place to start.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/20048acb-1193-4721-9a41-c116ac5f130a.jpg)
